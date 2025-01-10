@@ -1,1 +1,3 @@
-This repository contains several projects related to PLC controllers, covering various aspects of industrial automation. The projects range from water level control systems to production line automation and traffic light control systems, among others. Each project is fully functional and can serve as a foundation for further development in the field of industrial automation.
+# PLC Projects
+
+This repository contains several projects related to PLC controllers, covering various aspects of industrial automation. The projects include water level control systems, production line automation, traffic light control systems, and more. Each project is fully functional and can serve as a foundation for further development in the field of industrial automation.
