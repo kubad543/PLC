@@ -1,1 +1,5 @@
-a
+![fonkcja](aa.png)
+![a](a.png)
+![b](b.png)
+![c](c.png)
+![d](d.png)
